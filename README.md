@@ -1,28 +1,28 @@
-# 「Unityで作る2Dアクションゲーム」の完成プロジェクト
+# Completed Project for "2D Action Game Made with Unity"
 
 ![](https://github.com/baba-s/techbook-unity-2d-action-game/raw/master/game.gif)
 
-## 操作方法
+## Controls
 
-|キー|内容|
+| Key | Action |
 |:--|:--|
-|矢印キー|移動|
-|スペースキー|ジャンプ、二段ジャンプ、カベキック|
+| Arrow Keys | Move |
+| Spacebar | Jump, Double Jump, Wall Kick |
 
-## Unity プロジェクトの入手方法
+## How to get the Unity Project
 
-1. このページの「Clone or download」ボタンから「Download ZIP」を選択する
-2. ダウンロードした「techbook-unity-2d-action-game-master.zip」を展開する
-3. 展開した「techbook-unity-2d-action-game-master」フォルダを Unity で開く
+1. Select "Download ZIP" from the "Clone or download" button on this page
+2. Extract the downloaded "techbook-unity-2d-action-game-master.zip"
+3. Open the extracted "techbook-unity-2d-action-game-master" folder in Unity
 
-## 実行ファイルの入手方法
+## How to get the Executable File
 
-1. 下記の URL を開く  
+1. Open the following URL:  
 https://github.com/baba-s/techbook-unity-2d-action-game/blob/master/Game.zip?raw=true  
-2. ダウンロードした「Game.zip」を展開する
-3. 展開したフォルダ内の「proj.exe」を開く
+2. Extract the downloaded "Game.zip"
+3. Open "proj.exe" in the extracted folder
 
-## 知的財産の表記
+## Intellectual Property Notices
 
 ### Unity 2D Platformer Controller
 
